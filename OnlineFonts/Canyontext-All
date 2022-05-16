@@ -1,0 +1,36 @@
+@font-face {
+    font-weight: 400;
+    font-family: "CanyonWeb";
+    font-style: normal;
+    src:
+      url("../assets/fonts/Canyontext-Black.woff2") format("woff2"),
+      url("../assets/fonts/Canyontext-Black.woff") format("woff");
+    font-display: swap;
+  }
+  @font-face {
+    font-weight: 400;
+    font-family: "CanyonWeb";
+    font-style: normal;
+    src:
+      url("../assets/fonts/Canyontext-Bold.woff2") format("woff2"),
+      url("../assets/fonts/Canyontext-Bold.woff") format("woff");
+    font-display: swap;
+  }
+  @font-face {
+    font-weight: 400;
+    font-family: "CanyonWeb";
+    font-style: normal;
+    src:
+      url("../assets/fonts/Canyontext-Light.woff2") format("woff2"),
+      url("../assets/fonts/Canyontext-Light.woff") format("woff");
+    font-display: swap;
+  }
+  @font-face {
+    font-weight: 400;
+    font-family: "CanyonWeb";
+    font-style: normal;
+    src:
+      url("../assets/fonts/Canyontext-Regular.woff2") format("woff2"),
+      url("../assets/fonts/Canyontext-Regular.woff") format("woff");
+    font-display: swap;
+  }
