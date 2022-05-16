@@ -4,6 +4,6 @@
     font-style: normal;
     src:
       url("https://dschubertCanyon.github.io/OnlineFonts/Canyontext-Black.woff2") format("woff2"),
-      url("../assets/fonts/Canyontext-Black.woff") format("woff");
+      url("https://dschubertCanyon.github.io/OnlineFonts/Canyontext-Black.woff") format("woff");
     font-display: swap;
   }
