@@ -1,0 +1,9 @@
+@font-face {
+    font-weight: 400;
+    font-family: "SAPICON";
+    font-style: normal;
+    src:
+      url("../assets/fonts/SAP-icons_quartz.woff2") format("woff2"),
+      url("../assets/fonts/SAP-icons_quartz.woff") format("woff");
+    font-display: swap;
+  }
